@@ -57,7 +57,10 @@ Thanks to Google Maps API for providing mapping functionality.
 The PyTorch team for the DeepLabV3 model.
 Feel free to reach out for any questions or collaboration opportunities.
 
-AI TOOLS USED:
+
+
+
+##AI TOOLS USED:
 In the simplified example provided for marking war zones on Google Maps based on sentiment analysis of news articles, several AI-related tools and libraries are used. Here is a list of the tools and libraries mentioned in the code:
 
 TextBlob:
@@ -75,11 +78,20 @@ Link: Requests
 These tools and libraries provide functionalities for text analysis, map visualization, and handling HTTP requests, contributing to the overall functionality of the application. It's important to note that the example is highly simplified and may not accurately reflect real-world scenarios for detecting war zones, as more sophisticated tools and techniques would be required for such a sensitive and complex task.
 
 
-FlutterFlow
+FlutterFlow AI
 
 Perplexity AI
 
 ChatGPT
 
 Canva AI
+
+##ML Models Used:
+
+All the ml models used in building this app-
+1.severity predictor.
+2.medicines recoomender.
+3.green cover identifier.
+4.route predictor.
+5.war zone marker.
 
