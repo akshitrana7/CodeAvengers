@@ -60,7 +60,7 @@ Feel free to reach out for any questions or collaboration opportunities.
 
 
 
-##AI TOOLS USED:
+## AI TOOLS USED:
 In the simplified example provided for marking war zones on Google Maps based on sentiment analysis of news articles, several AI-related tools and libraries are used. Here is a list of the tools and libraries mentioned in the code:
 
 TextBlob:
@@ -86,7 +86,7 @@ ChatGPT
 
 Canva AI
 
-##ML Models Used:
+## ML Models Used:
 
 All the ml models used in building this app-
 1.severity predictor.
