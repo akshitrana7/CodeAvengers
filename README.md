@@ -57,3 +57,29 @@ Thanks to Google Maps API for providing mapping functionality.
 The PyTorch team for the DeepLabV3 model.
 Feel free to reach out for any questions or collaboration opportunities.
 
+AI TOOLS USED:
+In the simplified example provided for marking war zones on Google Maps based on sentiment analysis of news articles, several AI-related tools and libraries are used. Here is a list of the tools and libraries mentioned in the code:
+
+TextBlob:
+
+Purpose: TextBlob is a Python library for processing textual data. In this example, it is used for sentiment analysis to determine the sentiment polarity of the news articles.
+Link: TextBlob
+Folium:
+
+Purpose: Folium is a Python library for creating interactive maps using Leaflet.js. It is used to mark war zones on Google Maps based on the identified sentiment of news articles.
+Link: Folium
+Requests:
+
+Purpose: The requests library is used for making HTTP requests to a hypothetical API to fetch war-related news articles.
+Link: Requests
+These tools and libraries provide functionalities for text analysis, map visualization, and handling HTTP requests, contributing to the overall functionality of the application. It's important to note that the example is highly simplified and may not accurately reflect real-world scenarios for detecting war zones, as more sophisticated tools and techniques would be required for such a sensitive and complex task.
+
+
+FlutterFlow
+
+Perplexity AI
+
+ChatGPT
+
+Canva AI
+
