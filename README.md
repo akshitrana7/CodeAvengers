@@ -2,7 +2,7 @@
 AI Fusion Competition Repo
 
 Team Members:
-Sanskar Shree
+Shankar Shree
 Akshit Rana
 Faiz
 Isha Tyagi 
